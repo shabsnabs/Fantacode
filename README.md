@@ -22,12 +22,12 @@ www.fantacode.com
          # Amazon cart verification
          # Amazon product page interactions
     # Config file with URL and settings(Configure Browser and URL)
-   # Test execution classes
-   # Test cases 
-   # BaseClass
-   # TestNG configuration suite
-   #testNG.xml       
-CAPTCHA Handling:
+        # Test execution classes
+        # Test cases 
+        # BaseClass
+        # TestNG configuration suite
+        #testNG.xml       
+    CAPTCHA Handling:
    - If the website asks for CAPTCHA verification, need to manually resolve it or implement a wait mechanism
 
 
